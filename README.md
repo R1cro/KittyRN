@@ -1,7 +1,7 @@
 # Kitten Tricks + Expo.IO
 
 
-This perfect starter kit is an app based on React Native and [**UI Kitten library**][link:ui-kitten] with Light and Dark themes support. It’s completely free and Open Source. 
+This perfect starter kit is an app based on React Native with Light and Dark themes support. It’s completely free and Open Source. 
 Compose the application from available screens, add backend integration and you will end up with A-grade cross-platform mobile application.
 The themes can be changed in the runtime, without any need of reloading the application.
 
